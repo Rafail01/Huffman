@@ -1,0 +1,11 @@
+org\hua\huffman\AppEncoder.class
+org\hua\huffman\Decoder.class
+org\hua\huffman\HuffmanTreeCoding.class
+org\hua\huffman\Encoder.class
+org\hua\huffman\FileHandling.class
+org\hua\huffman\TreeNodes.class
+org\hua\huffman\HuffmanTree.class
+org\hua\huffman\MinHeap.class
+.netbeans_automatic_build
+org\hua\huffman\ArrayMinHeap.class
+org\hua\huffman\AppDecoder.class
